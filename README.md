@@ -1,4 +1,4 @@
 # Demo-Repository
 This is my first Git Repository.
 <br>
-Author - Avikshit Bhowmick
+Author - Avikshit Bhowmick(SRMIST)
